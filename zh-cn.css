@@ -1,0 +1,11 @@
+﻿:root {  
+    --primary-font: Arial,"Microsoft JhengHei",sans-serif
+}
+
+
+.primary-font {
+    font-family: var(--primary-font) !important;
+}
+body {
+    font-family: var(--primary-font);    
+}
